@@ -32,6 +32,6 @@ apt-key add - && sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt 
 ![image](https://user-images.githubusercontent.com/45406197/180644609-26a3145f-dd77-4e42-a1d5-f6c2f54d6138.png)
 12. попытайтесь запустить кластер
 --![image](https://user-images.githubusercontent.com/45406197/180644660-d0064adb-fae7-4678-b593-013b20965fdd.png)
-13. зайдите через через psql и проверьте содержимое ранее созданной таблицы
---![image](https://user-images.githubusercontent.com/45406197/180644678-003b4ef0-dd89-413f-83fd-1dd4314e86d5.png)
+13. зайдите через через psql и проверьте содержимое ранее созданной таблицы  
+--![image](https://user-images.githubusercontent.com/45406197/180644678-003b4ef0-dd89-413f-83fd-1dd4314e86d5.png)  
 
