@@ -18,3 +18,7 @@ apt-key add - && sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt 
 --![image](https://user-images.githubusercontent.com/45406197/180643755-b7c190ff-e9d5-423f-b677-7dede52eb6d6.png)
 --![image](https://user-images.githubusercontent.com/45406197/180643768-8b6ccd63-f34c-496d-92ee-ccf941b4b509.png)
 --![image](https://user-images.githubusercontent.com/45406197/180643786-e8e5f372-e17f-480e-9770-466471ceab05.png)
+8.сделайте пользователя postgres владельцем
+--![image](https://user-images.githubusercontent.com/45406197/180644454-c2df01b0-2ee4-47d8-b03c-b230e97f259d.png)
+9.перенесите содержимое /var/lib/postgres/14 в /mnt/data
+--![image](https://user-images.githubusercontent.com/45406197/180644482-95bf9c48-93b7-45b4-93ba-3cd54525fe70.png)
